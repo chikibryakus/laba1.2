@@ -31,3 +31,11 @@ int main()
         }
         printf("Результат=%i", c);
     }
+    else
+    {
+        printf("Результат=%i", (max(x, y) - min(x, y)));
+
+    }
+    getch();
+}
+
