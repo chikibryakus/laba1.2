@@ -17,3 +17,6 @@ int main()
     int c = 0;
     int d = 0;
     if (abs(x - y) > 10)
+    {
+        if (x < y)
+        {
