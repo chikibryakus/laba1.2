@@ -20,3 +20,12 @@ int main()
     {
         if (x < y)
         {
+            while (x < i)
+            {
+                d++;
+                printf("Операция%i", d);
+                int c = c + i;
+                i++;
+
+            }
+        }
